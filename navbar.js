@@ -1,1 +1,1 @@
-var navbar = "Click me!";
+var navbar = "Click YOU!";
